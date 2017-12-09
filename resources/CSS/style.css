@@ -35,5 +35,17 @@ h1, h2, h3{
 
 .supporting{
   text-align: center;
+}
 
+.header h2{
+  font-size: 23px;
+}
+
+.footer p{
+  font-size: 11px;
+}
+
+.footer{
+  background-color: dimgray;
+  color: white;
 }
